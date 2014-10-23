@@ -8,4 +8,5 @@ add articleContents.js file to the page and this line into your main javascript 
 
 $('.article').createContents();
 
-default: appends contents to .article-contents or if not found to top of .article 
+default: appends contents to .article-contents or if not found to top of .article
+Example [benbyford.com]"benbyford.com/articles/making-horton-stephens.com/"
